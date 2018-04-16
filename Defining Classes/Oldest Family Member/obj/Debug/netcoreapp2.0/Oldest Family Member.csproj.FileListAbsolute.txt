@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.deps.json
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.dll
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest Family Member.pdb
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.dll
+C:\Users\Lockwar\source\repos\Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest Family Member.pdb

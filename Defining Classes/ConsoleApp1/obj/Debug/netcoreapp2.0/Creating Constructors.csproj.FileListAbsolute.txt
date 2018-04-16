@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\Creating Constructors.deps.json
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\Creating Constructors.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\Creating Constructors.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\Creating Constructors.dll
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\bin\Debug\netcoreapp2.0\Creating Constructors.pdb
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\Creating Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\Creating Constructors.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\Creating Constructors.dll
+C:\Users\Lockwar\source\repos\Defining Classes\ConsoleApp1\obj\Debug\netcoreapp2.0\Creating Constructors.pdb

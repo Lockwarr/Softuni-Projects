@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\bin\Debug\netcoreapp2.0\Recursive Fibonacci.deps.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\bin\Debug\netcoreapp2.0\Recursive Fibonacci.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\bin\Debug\netcoreapp2.0\Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\bin\Debug\netcoreapp2.0\Recursive Fibonacci.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\bin\Debug\netcoreapp2.0\Recursive Fibonacci.pdb
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\obj\Debug\netcoreapp2.0\Recursive Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\obj\Debug\netcoreapp2.0\Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\obj\Debug\netcoreapp2.0\Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\obj\Debug\netcoreapp2.0\Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\obj\Debug\netcoreapp2.0\Recursive Fibonacci.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Recursive Fibonacci\obj\Debug\netcoreapp2.0\Recursive Fibonacci.pdb

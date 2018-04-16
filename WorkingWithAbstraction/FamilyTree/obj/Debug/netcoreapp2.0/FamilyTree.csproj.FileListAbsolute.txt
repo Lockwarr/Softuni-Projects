@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\Lockwar\source\repos\WorkingWithAbstraction\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb

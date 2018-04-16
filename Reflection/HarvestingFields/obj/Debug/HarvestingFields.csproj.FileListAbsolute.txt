@@ -1,0 +1,7 @@
+C:\Users\Lockwar\source\repos\Reflection\HarvestingFields\bin\Debug\HarvestingFields.exe.config
+C:\Users\Lockwar\source\repos\Reflection\HarvestingFields\bin\Debug\HarvestingFields.exe
+C:\Users\Lockwar\source\repos\Reflection\HarvestingFields\bin\Debug\HarvestingFields.pdb
+C:\Users\Lockwar\source\repos\Reflection\HarvestingFields\obj\Debug\HarvestingFields.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Reflection\HarvestingFields\obj\Debug\HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Reflection\HarvestingFields\obj\Debug\HarvestingFields.exe
+C:\Users\Lockwar\source\repos\Reflection\HarvestingFields\obj\Debug\HarvestingFields.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.deps.json
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.dll
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\bin\Debug\netcoreapp2.0\Predicate For Names.pdb
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.dll
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.pdb
+C:\Users\Lockwar\source\repos\Functional Programming\Predicate For Names\obj\Debug\netcoreapp2.0\Predicate For Names.csprojResolveAssemblyReference.cache

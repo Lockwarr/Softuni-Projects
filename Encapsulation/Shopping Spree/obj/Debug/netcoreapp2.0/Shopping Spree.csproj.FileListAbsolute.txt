@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\bin\Debug\netcoreapp2.0\Shopping Spree.deps.json
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\bin\Debug\netcoreapp2.0\Shopping Spree.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\bin\Debug\netcoreapp2.0\Shopping Spree.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\bin\Debug\netcoreapp2.0\Shopping Spree.dll
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\bin\Debug\netcoreapp2.0\Shopping Spree.pdb
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\obj\Debug\netcoreapp2.0\Shopping Spree.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\obj\Debug\netcoreapp2.0\Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\obj\Debug\netcoreapp2.0\Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\obj\Debug\netcoreapp2.0\Shopping Spree.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\obj\Debug\netcoreapp2.0\Shopping Spree.dll
+C:\Users\Lockwar\source\repos\Encapsulation\Shopping Spree\obj\Debug\netcoreapp2.0\Shopping Spree.pdb

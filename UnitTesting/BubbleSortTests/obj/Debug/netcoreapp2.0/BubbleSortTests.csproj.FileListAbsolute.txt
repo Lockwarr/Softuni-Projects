@@ -1,0 +1,4 @@
+C:\Users\Lockwar\source\repos\Database\BubbleSortTests\bin\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\Lockwar\source\repos\Database\BubbleSortTests\obj\Debug\netcoreapp2.0\BubbleSortTests.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Database\BubbleSortTests\obj\Debug\netcoreapp2.0\BubbleSortTests.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Database\BubbleSortTests\obj\Debug\netcoreapp2.0\BubbleSortTests.AssemblyInfo.cs

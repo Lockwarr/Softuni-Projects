@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.0\Stacks and Queues.deps.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.0\Stacks and Queues.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.0\Stacks and Queues.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.0\Stacks and Queues.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp2.0\Stacks and Queues.pdb
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.0\Stacks and Queues.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.0\Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.0\Stacks and Queues.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.0\Stacks and Queues.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.0\Stacks and Queues.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp2.0\Stacks and Queues.pdb

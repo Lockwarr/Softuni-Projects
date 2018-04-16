@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\bin\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.deps.json
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\bin\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.runtimeconfig.json
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\bin\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\bin\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.dll
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\bin\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.pdb
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\obj\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\obj\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\obj\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\obj\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\obj\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.dll
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\ExamPreparationCSharpAdvanced1\obj\Debug\netcoreapp2.0\ExamPreparationCSharpAdvanced1.pdb

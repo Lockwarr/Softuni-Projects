@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.deps.json
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.dll
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\bin\Debug\netcoreapp2.0\Find Evens or Odds.pdb
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.dll
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.pdb
+C:\Users\Lockwar\source\repos\Functional Programming\Find Evens or Odds\obj\Debug\netcoreapp2.0\Find Evens or Odds.csprojResolveAssemblyReference.cache

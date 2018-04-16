@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.deps.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.pdb
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.pdb

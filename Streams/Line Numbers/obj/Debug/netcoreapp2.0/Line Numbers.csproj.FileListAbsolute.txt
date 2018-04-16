@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.0\Line Numbers.deps.json
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.0\Line Numbers.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.0\Line Numbers.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.0\Line Numbers.dll
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\bin\Debug\netcoreapp2.0\Line Numbers.pdb
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.0\Line Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.0\Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.0\Line Numbers.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.0\Line Numbers.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.0\Line Numbers.dll
+C:\Users\Lockwar\source\repos\Streams\Line Numbers\obj\Debug\netcoreapp2.0\Line Numbers.pdb

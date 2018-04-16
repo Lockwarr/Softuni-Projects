@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\bin\Debug\netcoreapp2.0\Poisonous Plants.deps.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\bin\Debug\netcoreapp2.0\Poisonous Plants.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\bin\Debug\netcoreapp2.0\Poisonous Plants.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\bin\Debug\netcoreapp2.0\Poisonous Plants.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\bin\Debug\netcoreapp2.0\Poisonous Plants.pdb
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\obj\Debug\netcoreapp2.0\Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\obj\Debug\netcoreapp2.0\Poisonous Plants.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\obj\Debug\netcoreapp2.0\Poisonous Plants.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\obj\Debug\netcoreapp2.0\Poisonous Plants.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\obj\Debug\netcoreapp2.0\Poisonous Plants.pdb
+C:\Users\Lockwar\source\repos\Stacks and Queues\Poisonous Plants\obj\Debug\netcoreapp2.0\Poisonous Plants.csprojResolveAssemblyReference.cache

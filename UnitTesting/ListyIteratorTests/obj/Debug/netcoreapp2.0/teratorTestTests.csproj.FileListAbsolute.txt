@@ -1,0 +1,4 @@
+C:\Users\Lockwar\source\repos\Database\ListyIteratorTests\bin\Debug\netcoreapp2.0\IretatorTest.dll
+C:\Users\Lockwar\source\repos\Database\ListyIteratorTests\obj\Debug\netcoreapp2.0\teratorTestTests.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Database\ListyIteratorTests\obj\Debug\netcoreapp2.0\teratorTestTests.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Database\ListyIteratorTests\obj\Debug\netcoreapp2.0\teratorTestTests.AssemblyInfo.cs

@@ -1,0 +1,4 @@
+C:\Users\Lockwar\source\repos\Database\IntegrationTestTests\bin\Debug\netcoreapp2.0\IntegrationTests.dll
+C:\Users\Lockwar\source\repos\Database\IntegrationTestTests\obj\Debug\netcoreapp2.0\IntegrationTestTests.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Database\IntegrationTestTests\obj\Debug\netcoreapp2.0\IntegrationTestTests.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Database\IntegrationTestTests\obj\Debug\netcoreapp2.0\IntegrationTestTests.AssemblyInfo.cs

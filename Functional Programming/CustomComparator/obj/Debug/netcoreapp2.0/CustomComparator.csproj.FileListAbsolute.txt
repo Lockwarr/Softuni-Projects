@@ -1,0 +1,10 @@
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.deps.json
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.dll
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.pdb
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.dll
+C:\Users\Lockwar\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.pdb

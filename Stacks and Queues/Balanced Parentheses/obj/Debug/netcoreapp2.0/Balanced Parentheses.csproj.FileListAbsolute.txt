@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.deps.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.pdb
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.dll
+C:\Users\Lockwar\source\repos\Stacks and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.pdb

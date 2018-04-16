@@ -1,0 +1,6 @@
+C:\Users\Lockwar\source\repos\Database\DatabaseTests\bin\Debug\netcoreapp2.0\DatabaseTests.deps.json
+C:\Users\Lockwar\source\repos\Database\DatabaseTests\bin\Debug\netcoreapp2.0\DatabaseTests.dll
+C:\Users\Lockwar\source\repos\Database\DatabaseTests\obj\Debug\netcoreapp2.0\DatabaseTests.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Database\DatabaseTests\obj\Debug\netcoreapp2.0\DatabaseTests.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Database\DatabaseTests\obj\Debug\netcoreapp2.0\DatabaseTests.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Database\DatabaseTests\obj\Debug\netcoreapp2.0\DatabaseTests.AssemblyInfo.cs

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarvestingFields", "HarvestingFields\HarvestingFields.csproj", "{906FEA38-2DE6-4C44-B3EC-C24A1AD34FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackBox", "BlackBox\BlackBox.csproj", "{ECE922A5-02CC-41FD-A1C5-4BCABF61D01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906FEA38-2DE6-4C44-B3EC-C24A1AD34FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906FEA38-2DE6-4C44-B3EC-C24A1AD34FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906FEA38-2DE6-4C44-B3EC-C24A1AD34FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906FEA38-2DE6-4C44-B3EC-C24A1AD34FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE922A5-02CC-41FD-A1C5-4BCABF61D01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE922A5-02CC-41FD-A1C5-4BCABF61D01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE922A5-02CC-41FD-A1C5-4BCABF61D01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE922A5-02CC-41FD-A1C5-4BCABF61D01D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FADF785A-3CA7-4BFD-AE1E-1084872CA630}
+	EndGlobalSection
+EndGlobal

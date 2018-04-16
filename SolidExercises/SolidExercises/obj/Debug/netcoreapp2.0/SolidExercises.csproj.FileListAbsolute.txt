@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\bin\Debug\netcoreapp2.0\SolidExercises.deps.json
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\bin\Debug\netcoreapp2.0\SolidExercises.runtimeconfig.json
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\bin\Debug\netcoreapp2.0\SolidExercises.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\bin\Debug\netcoreapp2.0\SolidExercises.dll
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\bin\Debug\netcoreapp2.0\SolidExercises.pdb
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\obj\Debug\netcoreapp2.0\SolidExercises.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\obj\Debug\netcoreapp2.0\SolidExercises.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\obj\Debug\netcoreapp2.0\SolidExercises.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\obj\Debug\netcoreapp2.0\SolidExercises.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\obj\Debug\netcoreapp2.0\SolidExercises.dll
+C:\Users\Lockwar\source\repos\SoftUni\SolidExercises\SolidExercises\obj\Debug\netcoreapp2.0\SolidExercises.pdb

@@ -1,0 +1,4 @@
+C:\Users\Lockwar\source\repos\Database\ExtendedDatabaseTests\bin\Debug\netcoreapp2.0\ExtendedDatabase.dll
+C:\Users\Lockwar\source\repos\Database\ExtendedDatabaseTests\obj\Debug\netcoreapp2.0\ExtendedDatabaseTests.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Database\ExtendedDatabaseTests\obj\Debug\netcoreapp2.0\ExtendedDatabaseTests.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Database\ExtendedDatabaseTests\obj\Debug\netcoreapp2.0\ExtendedDatabaseTests.AssemblyInfo.cs

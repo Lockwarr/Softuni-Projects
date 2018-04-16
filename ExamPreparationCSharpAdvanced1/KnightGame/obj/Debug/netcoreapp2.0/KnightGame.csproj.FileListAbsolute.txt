@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.deps.json
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.runtimeconfig.json
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.dll
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\bin\Debug\netcoreapp2.0\KnightGame.pdb
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.dll
+C:\Users\Lockwar\source\repos\ExamPreparationCSharpAdvanced1\KnightGame\obj\Debug\netcoreapp2.0\KnightGame.pdb

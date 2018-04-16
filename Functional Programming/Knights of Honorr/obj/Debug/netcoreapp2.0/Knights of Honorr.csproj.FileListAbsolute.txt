@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\bin\Debug\netcoreapp2.0\Knights of Honorr.deps.json
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\bin\Debug\netcoreapp2.0\Knights of Honorr.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\bin\Debug\netcoreapp2.0\Knights of Honorr.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\bin\Debug\netcoreapp2.0\Knights of Honorr.dll
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\bin\Debug\netcoreapp2.0\Knights of Honorr.pdb
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\obj\Debug\netcoreapp2.0\Knights of Honorr.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\obj\Debug\netcoreapp2.0\Knights of Honorr.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\obj\Debug\netcoreapp2.0\Knights of Honorr.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\obj\Debug\netcoreapp2.0\Knights of Honorr.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\obj\Debug\netcoreapp2.0\Knights of Honorr.dll
+C:\Users\Lockwar\source\repos\Functional Programming\Knights of Honorr\obj\Debug\netcoreapp2.0\Knights of Honorr.pdb

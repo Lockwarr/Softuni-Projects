@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp2.0\Reverse and Exclude.deps.json
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp2.0\Reverse and Exclude.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp2.0\Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp2.0\Reverse and Exclude.dll
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\bin\Debug\netcoreapp2.0\Reverse and Exclude.pdb
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\obj\Debug\netcoreapp2.0\Reverse and Exclude.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\obj\Debug\netcoreapp2.0\Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\obj\Debug\netcoreapp2.0\Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\obj\Debug\netcoreapp2.0\Reverse and Exclude.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\obj\Debug\netcoreapp2.0\Reverse and Exclude.dll
+C:\Users\Lockwar\source\repos\Functional Programming\Reverse and Exclude\obj\Debug\netcoreapp2.0\Reverse and Exclude.pdb
