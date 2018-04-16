@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\bin\Debug\netcoreapp2.0\The Party Reservation FIlter Module.deps.json
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\bin\Debug\netcoreapp2.0\The Party Reservation FIlter Module.runtimeconfig.json
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\bin\Debug\netcoreapp2.0\The Party Reservation FIlter Module.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\bin\Debug\netcoreapp2.0\The Party Reservation FIlter Module.dll
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\bin\Debug\netcoreapp2.0\The Party Reservation FIlter Module.pdb
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\obj\Debug\netcoreapp2.0\The Party Reservation FIlter Module.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\obj\Debug\netcoreapp2.0\The Party Reservation FIlter Module.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\obj\Debug\netcoreapp2.0\The Party Reservation FIlter Module.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\obj\Debug\netcoreapp2.0\The Party Reservation FIlter Module.dll
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\obj\Debug\netcoreapp2.0\The Party Reservation FIlter Module.pdb
+C:\Users\Lockwar\source\repos\List of Predicates\The Party Reservation FIlter Module\obj\Debug\netcoreapp2.0\The Party Reservation FIlter Module.csprojResolveAssemblyReference.cache

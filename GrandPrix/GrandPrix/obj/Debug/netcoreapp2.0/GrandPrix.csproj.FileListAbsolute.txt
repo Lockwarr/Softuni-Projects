@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.deps.json
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.json
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.dll
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.pdb
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.dll
+C:\Users\Lockwar\source\repos\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.pdb

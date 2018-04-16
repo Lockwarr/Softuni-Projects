@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\obj\Debug\netcoreapp2.0\VehicleExtended.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\obj\Debug\netcoreapp2.0\VehicleExtended.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\obj\Debug\netcoreapp2.0\VehicleExtended.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\obj\Debug\netcoreapp2.0\VehicleExtended.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\bin\Debug\netcoreapp2.0\VehicleExtended.deps.json
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\bin\Debug\netcoreapp2.0\VehicleExtended.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\bin\Debug\netcoreapp2.0\VehicleExtended.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\bin\Debug\netcoreapp2.0\VehicleExtended.dll
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\bin\Debug\netcoreapp2.0\VehicleExtended.pdb
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\obj\Debug\netcoreapp2.0\VehicleExtended.dll
+C:\Users\Lockwar\source\repos\Polymorphism\VehicleExtended\obj\Debug\netcoreapp2.0\VehicleExtended.pdb

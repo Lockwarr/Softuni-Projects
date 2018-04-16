@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.deps.json
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.runtimeconfig.json
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.dll
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\bin\Debug\netcoreapp2.0\Predicate Party!.pdb
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.dll
+C:\Users\Lockwar\source\repos\List of Predicates\Predicate Party!\obj\Debug\netcoreapp2.0\Predicate Party!.pdb

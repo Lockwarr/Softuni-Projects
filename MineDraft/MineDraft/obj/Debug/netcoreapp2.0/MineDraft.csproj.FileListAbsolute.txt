@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.deps.json
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.runtimeconfig.json
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.dll
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.pdb
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.dll
+C:\Users\Lockwar\source\repos\MineDraft\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.pdb

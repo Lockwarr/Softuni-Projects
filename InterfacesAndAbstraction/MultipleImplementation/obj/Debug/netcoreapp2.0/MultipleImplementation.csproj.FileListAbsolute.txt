@@ -1,0 +1,10 @@
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.csproj.CoreCompileInputs.cache
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.AssemblyInfoInputs.cache
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.AssemblyInfo.cs
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.deps.json
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.runtimeconfig.json
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.runtimeconfig.dev.json
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.dll
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.pdb
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.dll
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\bin\Debug\netcoreapp2.0\Matrix.deps.json
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\bin\Debug\netcoreapp2.0\Matrix.runtimeconfig.json
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\bin\Debug\netcoreapp2.0\Matrix.runtimeconfig.dev.json
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\bin\Debug\netcoreapp2.0\Matrix.dll
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\bin\Debug\netcoreapp2.0\Matrix.pdb
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\obj\Debug\netcoreapp2.0\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\obj\Debug\netcoreapp2.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\obj\Debug\netcoreapp2.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\obj\Debug\netcoreapp2.0\Matrix.AssemblyInfo.cs
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\obj\Debug\netcoreapp2.0\Matrix.dll
+C:\Users\Lockwar\source\repos\Matrix of Palindromes\Matrix\obj\Debug\netcoreapp2.0\Matrix.pdb

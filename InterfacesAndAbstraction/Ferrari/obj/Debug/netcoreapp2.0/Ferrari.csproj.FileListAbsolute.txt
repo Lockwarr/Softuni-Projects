@@ -1,0 +1,10 @@
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.deps.json
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.runtimeconfig.json
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.runtimeconfig.dev.json
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.dll
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.pdb
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.csproj.CoreCompileInputs.cache
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.AssemblyInfoInputs.cache
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.AssemblyInfo.cs
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.dll
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.pdb

@@ -1,0 +1,11 @@
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.0\InterfacesAndAbstraction.deps.json
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.0\InterfacesAndAbstraction.runtimeconfig.json
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.0\InterfacesAndAbstraction.runtimeconfig.dev.json
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.0\InterfacesAndAbstraction.dll
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.0\InterfacesAndAbstraction.pdb
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.0\InterfacesAndAbstraction.csprojResolveAssemblyReference.cache
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.0\InterfacesAndAbstraction.csproj.CoreCompileInputs.cache
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.0\InterfacesAndAbstraction.AssemblyInfoInputs.cache
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.0\InterfacesAndAbstraction.AssemblyInfo.cs
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.0\InterfacesAndAbstraction.dll
+c:\users\lockwar\source\repos\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.0\InterfacesAndAbstraction.pdb
